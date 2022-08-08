@@ -1,0 +1,19 @@
+{
+    "name": "ramon/dip-pratica",
+    "description": "Dominando a letra D do SOLID",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ramon\\DipPratica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RamonSouto",
+            "email": "rdssi@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":"^8.0"
+    }
+}
